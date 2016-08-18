@@ -6,6 +6,11 @@ And when you are looking for work, they aren't much better. They won't tell you 
 
 The bees project is an attempt to quantify exactly how clueless some recruiters can be. I place it on Github solely so I can see how long it takes until I get an email from a recruiter that makes reference to this codebase. `bees` is a honeypot for parasites.
 
-The reference implementation of bees is in Python. Other programming languages will be added whenever I can be bothered. This code is for entertainment purposes only.
+The reference implementation of bees is in Python and a secondary implementation is available in Java (JBees). Other programming languages will be added whenever I can be bothered. This code is for entertainment purposes only.
+
+Other implementations have been aded thanks to the following contributors:
+
+* Ruby (@timcolishaw)
+* Swift (@timd)
 
 ![BEES](https://i.imgur.com/R1raY.gif)
