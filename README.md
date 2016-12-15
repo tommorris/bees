@@ -8,7 +8,7 @@ The bees project is an attempt to quantify exactly how clueless some recruiters 
 
 The reference implementation of bees is in Python and a secondary implementation is available in Java (JBees). Other programming languages will be added whenever I can be bothered. This code is for entertainment purposes only.
 
-Other implementations have been aded thanks to the following contributors:
+Other implementations have been added thanks to the following contributors:
 
 * Ruby (@timcolishaw)
 * Swift (@timd)
