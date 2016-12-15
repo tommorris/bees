@@ -2,7 +2,7 @@
 
 int main(){
   while(true){
-    std::cout << "Bees ";
+    std::cout << "bees ";
   }
   return 0;
 }
