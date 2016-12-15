@@ -12,5 +12,8 @@ Other implementations have been aded thanks to the following contributors:
 
 * Ruby (@timcolishaw)
 * Swift (@timd)
+* Go (@conoro)
+* C++ (@Guerillero)
+* VBScript (@Stretch69)
 
 ![BEES](https://i.imgur.com/R1raY.gif)
