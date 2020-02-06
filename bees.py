@@ -1,2 +1,2 @@
 while True:
-    print "bees",
+    print("bees", end=" ")
