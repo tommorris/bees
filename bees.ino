@@ -1,6 +1,6 @@
 /* Arduino compatible Internet Of Bees - @kosso */
 void setup(){
-    Serial.begin(11520);
+    Serial.begin(9600);
 }
 void loop(){
     Serial.print("BEES ")
