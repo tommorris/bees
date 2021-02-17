@@ -1,3 +1,1 @@
-while true do
-  print "BEES "
-end
+print 'BEES ' until 'recruiters'.start_with? 'researching the candidate'
