@@ -1,0 +1,19 @@
+format ELF64 executable 3
+
+segment readable executable
+
+entry main
+
+main:
+    lea  rdi, [msg]                               
+    mov  rax, 5                                  
+    mov  rdx, rax                                 
+    mov  rsi, rdi                                 
+    mov  rdi, 1                                   
+    mov  rax, 1                                   
+    syscall
+    jmp main
+
+segment readable writable
+
+msg  db 'BEES ', 5, 0
