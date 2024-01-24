@@ -15,5 +15,6 @@ Other implementations have been added thanks to the following contributors:
 * Go (@conoro)
 * C++ (@Guerillero)
 * VBScript (@Stretch69)
+* [Dead Fish](https://esolangs.org/wiki/Dead_fish) (@gdog2u)
 
 ![BEES](https://i.imgur.com/R1raY.gif)
